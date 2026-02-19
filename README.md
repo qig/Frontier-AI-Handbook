@@ -6,6 +6,8 @@ A technical reference covering what's actually inside the systems being built to
 
 **[Download the PDF](frontier-ai-handbook-2025-2026.pdf)** | **[Author](https://qig.github.io)**
 
+Star this if you find it useful. Will keep it updated once a while.
+
 ---
 
 ## What's Inside
