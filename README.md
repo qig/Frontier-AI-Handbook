@@ -29,7 +29,7 @@ Assumes familiarity with linear algebra, probability, calculus, and basic deep l
 
 ## Suggested Reading Paths
 
-- **Generative AI:** Modules 1 (Sections 1.0–1.5)
+- **Generative (more diffusion-oriented):** Modules 1 (Sections 1.0–1.5)
 - **World Simulation:** Module 2
 - **Systems Engineering:** Module 3
 - **Architecture:** Modules 4 → 5
