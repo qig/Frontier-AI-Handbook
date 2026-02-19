@@ -1,8 +1,8 @@
 # Frontier AI Technical Handbook (2025-2026)
 
-The math, architectures, and open problems behind frontier AI — from the ELBO to Mamba-2, from FlashAttention to DeepSeek-R1's GRPO.
+The math, architectures, and open problems behind frontier AI.
 
-Not an intro to ML. A technical reference covering what's actually inside the systems being built today.
+A technical reference covering what's actually inside the systems being built today.
 
 **[Download the PDF](frontier-ai-handbook-2025-2026.pdf)** | **[Author](https://qig.github.io)**
 
