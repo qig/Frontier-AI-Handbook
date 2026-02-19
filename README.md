@@ -23,7 +23,7 @@ Includes 34 "Think Deeper" questions, a build roadmap, and 80+ references.
 
 ## Prerequisites
 
-Assumes familiarity with linear algebra, probability, calculus, and basic deep learning (transformers, backpropagation, attention). This is not a tutorial — it's a reference for practitioners working at the frontier.
+Assumes familiarity with linear algebra, probability, calculus, and basic deep learning (transformers, backpropagation, attention). It's a reference for practitioners working at the frontier.
 
 ## Suggested Reading Paths
 
@@ -35,6 +35,6 @@ Assumes familiarity with linear algebra, probability, calculus, and basic deep l
 
 ## Author
 
-[Qi Guo](https://qig.github.io)
+[Qi Guo](https://qig.github.io) and Claude.
 
 Contributions and corrections welcome.
